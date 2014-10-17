@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[itz:home|Door43 (itz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-itz|d43-itz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-itz/archive/master.zip|d43-itz.zip]]
+
+**Recent Changes**
+{{changes>ns = itz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/itz|Ethnologue data]]
+
